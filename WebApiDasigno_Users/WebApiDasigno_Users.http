@@ -1,0 +1,6 @@
+@WebApiDasigno_Users_HostAddress = http://localhost:5125
+
+GET {{WebApiDasigno_Users_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
