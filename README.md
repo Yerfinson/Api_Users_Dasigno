@@ -1,6 +1,6 @@
 # API de Usuarios
 
-Esta API proporciona endpoints para la gestión de usuarios en un sistema. Permite la creación, lectura, actualización y eliminación de usuarios, así como la búsqueda paginada de usuarios ademas de crear la base de datos haciendo uso de entity framework con solo onfigurar la adena de coexion.
+Esta API proporciona endpoints para la gestión de usuarios en un sistema. Permite la creación, lectura, actualización y eliminación de usuarios, así como la búsqueda paginada de usuarios ademas de crear la base de datos haciendo uso de entity framework con solo onfigurar la adena de conexion.
 
 ## Prerrequisitos
 
