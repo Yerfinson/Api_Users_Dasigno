@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\Personal\\Proyectos\\Desarollo Web\\Api_Users_Dasigno\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97C385C8-07EF-4ECE-91CB-845AA092C861}|WebApiDasigno_Users\\WebApiDasigno_Users.csproj|e:\\personal\\proyectos\\desarollo web\\api_users_dasigno\\webapidasigno_users\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C385C8-07EF-4ECE-91CB-845AA092C861}|WebApiDasigno_Users\\WebApiDasigno_Users.csproj|solutionrelative:webapidasigno_users\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C385C8-07EF-4ECE-91CB-845AA092C861}|WebApiDasigno_Users\\WebApiDasigno_Users.csproj|e:\\personal\\proyectos\\desarollo web\\api_users_dasigno\\webapidasigno_users\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C385C8-07EF-4ECE-91CB-845AA092C861}|WebApiDasigno_Users\\WebApiDasigno_Users.csproj|solutionrelative:webapidasigno_users\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "E:\\Personal\\Proyectos\\Desarollo Web\\Api_Users_Dasigno\\WebApiDasigno_Users\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "WebApiDasigno_Users\\Controllers\\UsersController.cs",
+              "ToolTip": "E:\\Personal\\Proyectos\\Desarollo Web\\Api_Users_Dasigno\\WebApiDasigno_Users\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "WebApiDasigno_Users\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAiwCUAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T02:19:07.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Users.cs",
+              "DocumentMoniker": "E:\\Personal\\Proyectos\\Desarollo Web\\Api_Users_Dasigno\\WebApiDasigno_Users\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "WebApiDasigno_Users\\Models\\Users.cs",
+              "ToolTip": "E:\\Personal\\Proyectos\\Desarollo Web\\Api_Users_Dasigno\\WebApiDasigno_Users\\Models\\Users.cs",
+              "RelativeToolTip": "WebApiDasigno_Users\\Models\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T02:18:58.043Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

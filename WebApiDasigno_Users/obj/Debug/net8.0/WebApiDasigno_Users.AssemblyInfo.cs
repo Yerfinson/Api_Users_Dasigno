@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebApiDasigno_Users")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4df0b5806f6bd3dd2b3302a18fc4e9f80f415e8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d98446ebe8a2943b3fd053a903b97331d04514ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebApiDasigno_Users")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebApiDasigno_Users")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

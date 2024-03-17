@@ -35,7 +35,7 @@ namespace WebApiDasigno_Users.Controllers
             RegularExpression(@"^[a-zA-Z]+$", ErrorMessage = "El segundo apellido solo puede contener letras"),
             MaxLength(50, ErrorMessage = "El segundo apellido no puede tener más de 50 caracteres")]
             string? Segundo_Apellido,
-            [SwaggerParameter("Fecha de nacimiento del usuario (formato: DD-MM-YYYY)"),Required]
+            [SwaggerParameter("Fecha de nacimiento del usuario (formato: YYYY-MM-DD)"),Required]
             DateTime Fecha_de_nacimineto,
             [SwaggerParameter("Sueldo del usuario"),Range(1,int.MaxValue,ErrorMessage ="El sueldo debe ser mayor a cero"),Required] int Sueldo) {
             try
@@ -196,7 +196,7 @@ namespace WebApiDasigno_Users.Controllers
             RegularExpression(@"^[a-zA-Z]+$", ErrorMessage = "El segundo apellido solo puede contener letras"),
             MaxLength(50, ErrorMessage = "El segundo apellido no puede tener más de 50 caracteres")]
             string? Segundo_Apellido,            
-            [SwaggerParameter("Fecha de nacimiento del usuario (formato: DD-MM-YYYY)")]
+            [SwaggerParameter("Fecha de nacimiento del usuario (formato: YYYY-MM-DD)")]
             DateTime? Fecha_de_nacimineto,
             [SwaggerParameter("Sueldo del usuario"), Range(1, int.MaxValue, ErrorMessage = "El sueldo debe ser mayor a cero")]
             int? Sueldo)
